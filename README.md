@@ -8,12 +8,12 @@ Hello, and welcome to my portfolio! My name is Cailin De Zeeuw, and I use she/he
 I think data visualization is an exciting medium, since it combines principles of design, effective communication, and data analysis. I find each of these individually interesting and important, and am therefore eager to apply them to making effective and visually appealing data visualizations. My hope for this class is to develop my understanding of what makes a "good chart," and to produce a body of work that improves over time. To achieve this, I intend to practice analyzing data visualizations I come across in my life, and spend time iterating my own designs. Moving forward, I hope to continue practicing my data visualization skills in order to make creative, clear, and impactful charts in a professional setting. 
 
 ## Portfolio
-### Data Visualization #1 *due 11/07*
+### Data Visualization #1 - *due 11/07*
 
-### Critique by Design *due 11/15*
+### Critique by Design - *due 11/15*
 
-### Final Project Part 1 *due 11/22
+### Final Project Part 1 - *due 11/22*
 
-### Final Project Part 2 *due 11/29*
+### Final Project Part 2 - *due 11/29*
 
-### Final Project Part 3 *due 12/08*
+### Final Project Part 3 - *due 12/08*
