@@ -9,7 +9,7 @@ I think data visualization is an exciting medium, since it combines principles o
 
 ## Portfolio
 ### Data Visualization #1 - *due 11/07*
-Assignment: Visualizing government debt (/dataviz2.md)
+[Assignment: Visualizing government debt] (/dataviz2.md)
 
 ### Critique by Design - *due 11/15*
 
