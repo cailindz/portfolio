@@ -8,4 +8,5 @@
 ## Grid of Line Charts: Using Flourish to visualize that same government debt data
 <div class="flourish-embed flourish-chart" data-src="visualisation/11735616"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## Third viz
+## Line Chart: 
+<div class="flourish-embed flourish-chart" data-src="visualisation/11737259"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
