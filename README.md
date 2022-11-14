@@ -12,6 +12,7 @@ I think data visualization is an exciting medium, since it combines principles o
 [Assignment: Visualizing government debt](/dataviz2.md)
 
 ### Critique by Design - *due 11/15*
+[Assignment: Critique by Design](/critiquebydesign.md)
 
 ### Final Project Part 1 - *due 11/22*
 
