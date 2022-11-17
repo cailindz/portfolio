@@ -3,7 +3,7 @@
 [Link to portfolio main page](/README.md)
 
 ## Selecting a data visualization for critique and redesign
-1. A link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source. 
+
 I chose to critique and re-design one of many figures found in a report focusing on suburban-metro regions:
 ### [Overlooked Suburbs: The Changing Metropolitan Geography of Poverty in the Western United States<sup>1</sup>](https://www.frbsf.org/community-development/publications/community-development-research-briefs/2022/january/overlooked-suburbs-changing-metropolitan-geography-of-poverty-western-us/)
 
