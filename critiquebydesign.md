@@ -25,3 +25,4 @@ You can include screenshots, sketches or other artifacts with your narrative to 
 
 ## Part 3
 3.  Your final data visualization!
+<div class="flourish-embed flourish-chart" data-src="visualisation/11849793"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
