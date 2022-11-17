@@ -51,27 +51,25 @@ After creating the three sketches above, I proceeded with interviewing peers to 
 5. Is there anything you would change or do differently?
 
 ### Feedback from User 1
-*Option 1*
+*Option 1:*
 They understood what it was showing and were curious to see data on the suburb geographic type, which was not detailed in my sketch. They also noted that the visualization seems useful for a government report that can inform policy for different demographics or understand an area's representation.
-*Option 2*
+
+*Option 2:*
 They understood the main idea. They also suggested that the data be represented with a landscape layout to fit into a report better. Another suggestion was to delineate the grid within each square, so a user can count up the proportion themselves.
-*Option 3*
+
+*Option 3:*
 The user knew what the visualization was communicating, but they also noted that it was slightly misleading and simplifying. It's possible that there were other up and down trends over time that are skipped over by only including data for two points in time with that large of a gap in between.
 
-### Feedback from User 2
-
+### Feedback from User 2 
 "I think all of them get the job done."
 
-*Option 1*
-
+*Option 1:*
 #1 is a little confusing to me because it automatically shows the highest value, which changes for some demographics going up or down.
 
-*Option 2*
-
+*Option 2:*
 #2 is a little confusing because you need twice as many “elements” to show the data, and it also is harder to see small changes (such as 8 to 12), although larger changes (such as 20 to 30) are easy to see. 
 
-*Option3*
-
+*Option 3:*
 #3 is good because it lays it out and is easier to see trends. But I’m an engineer so I like trend lines more than your average person probably!
 
 Given the conflict between how Users 1 and 2 perceived Option 3, I had to weigh my own judgement of their feedback. I agree with User 1: I think the trend lines are overly simplistic. However, I do think I would prefer Option 3 if I had more data to work with. 
