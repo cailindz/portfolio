@@ -16,6 +16,7 @@ This report uses many data visualizations to help answer the motivating research
 
 
 ![Week 3-1](https://user-images.githubusercontent.com/117120584/202338332-aa1cc17c-22be-4f32-9b30-db1ba73cbdbb.jpg)
+![Week 3-2](https://user-images.githubusercontent.com/117120584/202338731-6c830929-31bc-4fc0-a1b7-96a123e1f320.jpg)
 
 
 
