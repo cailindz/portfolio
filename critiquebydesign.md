@@ -30,40 +30,46 @@ Please note that the sketches below are intended to convey design choices, not a
 ![Week 3-1](https://user-images.githubusercontent.com/117120584/202338332-aa1cc17c-22be-4f32-9b30-db1ba73cbdbb.jpg)
 ![Week 3-2](https://user-images.githubusercontent.com/117120584/202338731-6c830929-31bc-4fc0-a1b7-96a123e1f320.jpg)
 
-**Option 1**
+**Option 1:**
 For the first option, I chose to try overlapping histograms. This data visualization is made up of six elements in a grid. Each element depicts a specific geographic type, for example "Largest city." Each element contains six spaces for bars -- one for each demographic race represented. However, each space was given two overlapping bars that represent values at different points in time. The overlapping characteristic meant that any visible color on top is the year that race had the highest representation, and anywhere the colors are mixed indicates overlap. 
 
-**Option 2**
-For the second option, I chose represent the population proportion visually within a square, in a type of tree map diagram. For the sketch, I drew six of the needed 12 squares for a complete grid. Each square was 10 x 10 units, so there were 100 spaces within each square. These spaces were filled in with color-coded area based on racial demographics of each geographic type for a specific point in time. I chose to represent the data this way to emphasize how different races made up parts of the whole population. 
+**Option 2:**
+For the second option, I chose represent the population proportion visually within a square, in a type of tree map diagram. For the sketch, I drew six of the needed 12 squares for a complete grid. Each square was 10 x 10 units, so there were 100 spaces within each square. These spaces were filled in with color-coded area based on racial demographics of each geographic type for a specific point in time. I chose to represent the data this way to emphasize how different races made up parts of the whole population. I chose to use squares within a square so that visual comparisons could be made more easily than if the representative area was illustrated with circles or with a pie chart.
+
+**Option 3:**
+For the third option, I chose to illustrate the change over time of racial demographics using a line chart. When sketching, I considered the possibility of finding more data points for other points in time between the given 1990 and 2014-2018. I thought that this chart type would better illustrate the trends of demographics over time for different geographic types. It also presented the option to highlight the largest changes using color, while changing other lines to gray. While this isn't reflected in my sketch, it is something I considered. 
 
 ## Testing Alternatives with User Feedback
 
 After creating the three sketches above, I proceeded with interviewing peers to gain feedback on the sketches. I showed all three sketches to each user and asked them the following questions:
-Seeing re-designs ONLY:
+*Seeing re-designs ONLY:*
 1. Can you describe to me what this is telling you?
 2. Is there anything you find surprising or confusing?
 3. Who do you think is the intended audience for this?
-After seeing original:
+*After seeing original:*
 4. How does the original compare to the re-designs? 
 5. Is there anything you would change or do differently?
 
 ### Feedback from User 1
-Fig. 1
-1. A histogram of racial composition in Los Angelos metro region for different geographical areas as it changes from 1990 to 2018
-2. No. Curious to see suburb data
-3. Gov. Report - policy for diff. Demographics/who is representing regions
-Fig. 2
-1. Distribution of racial composition in 1990 and 2018 for different geographical regions
-2. No
-feedback: make it landscape to fit into a report better
-Delineate rows so user can count up themselves
-Fig. 3
-1. Changing racial composition in each geographical region over time
-2. Misleading/simplifying
-
-
+*Option 1*
+They understood what it was showing and were curious to see data on the suburb geographic type, which was not detailed in my sketch. They also noted that the visualization seems useful for a government report that can inform policy for different demographics or understand an area's representation.
+*Option 2*
+They understood the main idea. They also suggested that the data be represented with a landscape layout to fit into a report better. Another suggestion was to delineate the grid within each square, so a user can count up the proportion themselves.
+*Option 3*
+The user knew what the visualization was communicating, but they also noted that it was slightly misleading and simplifying. It's possible that there were other up and down trends over time that are skipped over by only including data for two points in time with that large of a gap in between.
 
 ### Feedback from User 2
+"I think all of them get the job done."
+*Option 1*
+#1 is a little confusing to me because it automatically shows the highest value, which changes for some demographics going up or down.
+*Option 2*
+#2 is a little confusing because you need twice as many “elements” to show the data, and it also is harder to see small changes (such as 8 to 12), although larger changes (such as 20 to 30) are easy to see. 
+*Option3*
+#3 is good because it lays it out and is easier to see trends. But I’m an engineer so I like trend lines more than your average person probably!
+
+Given the conflict between how Users 1 and 2 perceived Option 3, I had to weigh my own judgement of their feedback. I agree with User 1: I think the trend lines are overly simplistic. However, I do think I would prefer Option 3 if I had more data to work with. 
+
+I decide to take Option 2 to the computer to iterate using software and the actual data set.
 
 ## My Final Solution
   Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently. 
