@@ -4,10 +4,12 @@
 
 ## Selecting a data visualization for critique and redesign
 1. A link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source. 
-
+I chose to critique and re-design one of many figures found in a report focusing on suburban-metro regions:
 ### [Overlooked Suburbs: The Changing Metropolitan Geography of Poverty in the Western United States<sup>1</sup>](https://www.frbsf.org/community-development/publications/community-development-research-briefs/2022/january/overlooked-suburbs-changing-metropolitan-geography-of-poverty-western-us/)
 
-This report uses many data visualizations to help answer the motivating research questions. The report compares similar characteristics across different geographic regions, using separate but similar visualizations for each region, as well as several summarizing visualizations. 
+This report uses many data visualizations to help answer the motivating research questions. The report compares similar characteristics across different geographic regions, using separate but similar visualizations for each region, as well as several summarizing visualizations. The authors use figures to illustrate changing demographics and trends across time and in different geographic types. 
+
+I chose to critique and redesign one of the figures specific to the Los Angeles metro region, which illustrates changes in racial demographics between 1990 and 2014-2018. A similar figure comparing racial demographics between these time periods is given for each metro region, for example Boise, Las Vegas, and Phoenix. Therefore, these critiques and suggestions could also apply to the other figures found in the report for different regions. 
 
 <img width="1241" alt="Screen Shot 2022-11-16 at 11 09 18 PM" src="https://user-images.githubusercontent.com/117120584/202353774-3bbaf65e-ff22-4952-b17b-239601834737.png">
 
