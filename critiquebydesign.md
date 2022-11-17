@@ -9,6 +9,8 @@
 
 This report uses many data visualizations to help answer the motivating research questions. The report compares similar characteristics across different geographic regions, using separate but similar visualizations for each region, as well as several summarizing visualizations. 
 
+<img width="1241" alt="Screen Shot 2022-11-16 at 11 09 18 PM" src="https://user-images.githubusercontent.com/117120584/202353774-3bbaf65e-ff22-4952-b17b-239601834737.png">
+
 <sub> [1] Mattiuzzi, Elizabeth, and Margaret Weir. 2022. “Overlooked Suburbs: The Changing Metropolitan Geography of Poverty in the Western United States.” Federal Reserve Bank of San Francisco Community Development Research Brief 2022-1. doi: 10.24148/cdrb2022-1)</sub>
 
 ## Part 2
