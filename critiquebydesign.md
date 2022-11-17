@@ -25,11 +25,16 @@ To address these issues, I thought about other chart types that could potentiall
 2. Tree-map type charts
 3. A grid of line charts
 
+Please note that the sketches below are intended to convey design choices, not accurate data representation. Because each of these data visualization sketches uses repeated charts, some of the repeated elements are not entirely filled in, or the data used is a duplicate of a different geographic area. This was done only in the sketching phase, where I was most interested in design choices. 
+
 ![Week 3-1](https://user-images.githubusercontent.com/117120584/202338332-aa1cc17c-22be-4f32-9b30-db1ba73cbdbb.jpg)
 ![Week 3-2](https://user-images.githubusercontent.com/117120584/202338731-6c830929-31bc-4fc0-a1b7-96a123e1f320.jpg)
 
 **Option 1**
-The first option 
+For the first option, I chose to try overlapping histograms. This data visualization is made up of six elements in a grid. Each element depicts a specific geographic type, for example "Largest city." Each element contains six spaces for bars -- one for each demographic race represented. However, each space was given two overlapping bars that represent values at different points in time. The overlapping characteristic meant that any visible color on top is the year that race had the highest representation, and anywhere the colors are mixed indicates overlap. 
+
+**Option 2**
+For the second option, I chose represent the population proportion visually within a square, in a type of tree map diagram. For the sketch, I drew six of the needed 12 squares for a complete grid. Each square was 10 x 10 units, so there were 100 spaces within each square. These spaces were filled in with color-coded area based on racial demographics of each geographic type for a specific point in time. I chose to represent the data this way to emphasize how different races made up parts of the whole population. 
 
 ## Testing Alternatives with User Feedback
 
