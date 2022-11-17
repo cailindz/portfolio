@@ -25,11 +25,11 @@ To address these issues, I thought about other chart types that could potentiall
 2. Tree-map type charts
 3. A grid of line charts
 
-2. For each step detailed above, you should document your progress as you moved forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently. 
-
-
 ![Week 3-1](https://user-images.githubusercontent.com/117120584/202338332-aa1cc17c-22be-4f32-9b30-db1ba73cbdbb.jpg)
 ![Week 3-2](https://user-images.githubusercontent.com/117120584/202338731-6c830929-31bc-4fc0-a1b7-96a123e1f320.jpg)
+
+**Option 1**
+The first option 
 
 ## Testing Alternatives with User Feedback
 
@@ -61,5 +61,6 @@ Fig. 3
 ### Feedback from User 2
 
 ## My Final Solution
+  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11849793"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
