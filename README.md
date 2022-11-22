@@ -15,6 +15,7 @@ I think data visualization is an exciting medium, since it combines principles o
 [Assignment: Critique by Design](/critiquebydesign.md)
 
 ### Final Project Part 1 - *due 11/22*
+[Assignment: Final Project Part 1](/final_part1.md)
 
 ### Final Project Part 2 - *due 11/29*
 
