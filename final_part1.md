@@ -13,7 +13,6 @@ The intention is to continue zooming in from an international framework to local
 ### Story Arc
 
 ## Outline & Initial Sketches
-A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
 ### Sustainable Development Goals: An International Framework
 ![E_SDG_logo_without_UN_emblem_horizontal_Transparent_WEB](https://user-images.githubusercontent.com/117120584/203669938-42a7eb59-c384-4e7c-a0ef-edde56b3c993.png)
@@ -52,15 +51,21 @@ This section will be the most "zoomed in" I will go in terms of SDG action. The 
 The evaluation process can be visualized using a flow chart. The following prototype captures a few of the steps, but will be further built out in a future iteration:
   ![Untitled (Draft)-4](https://user-images.githubusercontent.com/117120584/203684300-69e4a4b1-0f36-4937-9d23-681ef294569a.jpg)
 
-The report breaks down all of CMU's activities into the categories Education, Research, and Practice. The SDG evaluation then indicates what percentage of each category is connected with each specific SDG. The analysis was subjective and not entirely comprehensive. So, to visualize this data as a snapshot, a series of stacked bar charts could be useful. To further understand the data, plotting each percentage 
+The report breaks down all of CMU's activities into the categories Education, Research, and Practice. The SDG evaluation then indicates what percentage of each category is connected with each specific SDG. The analysis was subjective and not entirely comprehensive. So, to visualize this data as a snapshot, a series of stacked bar charts could be useful. To further understand the data, plotting each percentage in order or rank helps visualize which goals are most prioritized at CMU:
+![Untitled (Draft)-5](https://user-images.githubusercontent.com/117120584/203689057-221f3f55-52b6-4c59-a8ec-b9692faeb1f6.jpg)
   
 ### Local Action Drives Global Impact
-  
+I will conclude my data story by emphasizing the connection between local action and international change. To achieve the international Sustainable Development Goals by 2030, every country will have to do its part. In the United States, that change will rely on implementation at the city and organizational level. 
 
 ## Data
-A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
-A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+The main data source for my project comes from the [Sustainable Development Report](https://dashboards.sdgindex.org/downloads), which provides data on many countries, SDG indicators and goals, over many years. This excel datasheet can be imported into the dataviz tool of my choice, and filtered to the data I'm interested in. I intend to prioritize data for the United States, and maybe 5-9 other countries for comparison. As noted in my outline, I intend to look at broad SDG indexes over years, as well as zoom in to view more specific indicators for recent years. I also intend to use the dataset to rank the U.S. against other countries in terms of SDG accomplishments. 
 
+To supplement the dataset above, I have found several reports with relevant information to be included. As mentioned in my outline, I will reference data from:
+  - the Brookings report [State of the Sustainable Development Goals in the United States](https://www.brookings.edu/wp-content/uploads/2022/03/2022_Brookings_State-of-SDGs-in-the-US.pdf)
+  - the City of Pittsburgh report [Pittsburgh and the Sustainable Development Goals: A Voluntary Local Review of Progress](https://sdgs.un.org/sites/default/files/2020-12/Pittsburgh%20VLR%202020%20Final%20Draft.pdf) 
+  - the [LA Voluntary Local Review](https://sdg.lamayor.org/2021VLR)
+  - The Carnegie Mellon University report [2020 Voluntary Review of the Sustainable Development Goals](https://www.cmu.edu/leadership/the-provost/provost-priorities/sustainability-initiative/cmu-vur-2020.pdf)
+  
 ## Methods
 Shorthand
 Shorter Shorthand
