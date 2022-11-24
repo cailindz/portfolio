@@ -32,12 +32,12 @@ Next, I will illustrate the international nature of the SDG framework while high
 In this section, I will focus on how the U.S. specifically has made progress on the SDGs, and where there is room for improvement. I will start with a simple (and boring) line chart illustrating the slight progress on the cumulative SDG Index Score since 2000:
 ![Untitled (Draft)-1 2](https://user-images.githubusercontent.com/117120584/203674380-05db2d7e-5a29-42a3-9234-5dcf1c2d2db5.jpg)
 
-Next, I might highlight a few key areas where the U.S. is noticeably behind. The [State of the Sustainable Development Goals in the United States](https://www.brookings.edu/wp-content/uploads/2022/03/2022_Brookings_State-of-SDGs-in-the-US.pdf) is a report published by Brookings that gives some insight. Based on their classification system of which SDGs are "on track" versus "breakthrough needed" or even "moving backward" I can color-code the U.S. progress in a dataviz:
+Next, I might highlight a few key areas where the U.S. is noticeably behind. The [State of the Sustainable Development Goals in the United States](https://www.brookings.edu/wp-content/uploads/2022/03/2022_Brookings_State-of-SDGs-in-the-US.pdf)<sup>1</sup> is a report published by Brookings that gives some insight. Based on their classification system of which SDGs are "on track" versus "breakthrough needed" or even "moving backward" I can color-code the U.S. progress in a dataviz:
 ![Untitled (Draft)-2](https://user-images.githubusercontent.com/117120584/203676178-c896d78c-f7f4-459c-9beb-8dcd0c282981.jpg)
 
 I might also add a dataviz to illustrate how many people are affected by the U.S. falling short of an SDG even by a little bit. One fact highlighted in the Brookings report is that 6.6 million people did not have access to safe sanitation in 2019, which approximately equal to the population of the state of Indiana.
 
-
+<sub> [1] Pipa, A.F., Rasmussen, K., & Pendrak, K. (n.d.). State of the Sustainable Development Goals in the United States. Brookings.<sub>
 ## Data
 A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
