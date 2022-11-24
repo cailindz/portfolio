@@ -48,6 +48,11 @@ If extra detail is needed, I could also reference local SDG analysis from Los An
 
 ### SDGs on the Organizational Level
 This section will be the most "zoomed in" I will go in terms of SDG action. The Carnegie Mellon University [2020 Voluntary Review of the Sustainable Development Goals](https://www.cmu.edu/leadership/the-provost/provost-priorities/sustainability-initiative/cmu-vur-2020.pdf) is a report detailing SDG alignment across CMU. I can use data visualizations to report out on how CMU is doing on meeting various SDGs, and also on how they conducted their evaluation. 
+
+The evaluation process can be visualized using a flow chart. The following prototype captures a few of the steps, but will be further built out in a future iteration:
+  ![Untitled (Draft)-4](https://user-images.githubusercontent.com/117120584/203684300-69e4a4b1-0f36-4937-9d23-681ef294569a.jpg)
+
+The report breaks down all of CMU's activities into the categories Education, Research, and Practice. The SDG evaluation then indicates what percentage of each category is connected with each specific SDG. The analysis was subjective and not entirely comprehensive. So, to visualize this data as a snapshot, a series of stacked bar charts could be useful. To further understand the data, plotting each percentage 
   
 ### Local Action Drives Global Impact
   
@@ -60,7 +65,7 @@ A link to the publicly-accessible datasets you plan on using, or a link to a cop
 Shorthand
 Shorter Shorthand
   
-## References
+### References
 <sub> [1] Pipa, A.F., Rasmussen, K., & Pendrak, K. (n.d.). State of the Sustainable Development Goals in the United States. Brookings.<sub>
   
 <sub> [2] Pipa, Rasmussen, & Pendrak. <sub>
