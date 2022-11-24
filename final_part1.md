@@ -23,10 +23,10 @@ I will begin my project by giving an overview of the UN Sustainable Development 
 ***Consider: Is it okay to include graphics I did not design, if they are central to the story?***
 
 To summarize the overview of the SDGs, I can include an infographic-type visual calling out specific numbers:
--17 goals
--169 targets
--by 2030
--# of countries actively reporting SDG progress
+- 17 goals
+- 169 targets
+- by 2030
+- # of countries actively reporting SDG progress
 
 Next, I will illustrate the international nature of the SDG framework while highlighting the United States. Here, I will include a dataviz illustrating how a number of countries are ranked along each of the 17 SDGs:![Untitled (Draft)-1](https://user-images.githubusercontent.com/117120584/203673359-a70e02eb-8999-4070-aa38-0554c9a7d16e.jpg)
 
