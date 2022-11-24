@@ -8,6 +8,8 @@ To Whom: Organizational leaders on a local scale
 
 ## Summary
 A high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project.  
+
+The intention is to continue zooming in from an international framework to local implementation. 
 ### Story Arc
 
 ## Outline & Initial Sketches
@@ -35,9 +37,17 @@ In this section, I will focus on how the U.S. specifically has made progress on 
 Next, I might highlight a few key areas where the U.S. is noticeably behind. The [State of the Sustainable Development Goals in the United States](https://www.brookings.edu/wp-content/uploads/2022/03/2022_Brookings_State-of-SDGs-in-the-US.pdf)<sup>1</sup> is a report published by Brookings that gives some insight. Based on their classification system of which SDGs are "on track" versus "breakthrough needed" or even "moving backward" I can color-code the U.S. progress in a dataviz:
 ![Untitled (Draft)-2](https://user-images.githubusercontent.com/117120584/203676178-c896d78c-f7f4-459c-9beb-8dcd0c282981.jpg)
 
-I might also add a dataviz to illustrate how many people are affected by the U.S. falling short of an SDG even by a little bit. One fact highlighted in the Brookings report is that 6.6 million people did not have access to safe sanitation in 2019, which approximately equal to the population of the state of Indiana.
+I might also add a dataviz to illustrate how many people are affected by the U.S. falling short of an SDG even by a little bit. One fact highlighted in the Brookings report is that 6.6 million people did not have access to safe sanitation in 2019, which is approximately equal to the population of the state of Indiana.<sup>2<sup> I could use this fact or a different shortcoming in the U.S. and a unit chart to display how individual people in the U.S. are affected.
 
 <sub> [1] Pipa, A.F., Rasmussen, K., & Pendrak, K. (n.d.). State of the Sustainable Development Goals in the United States. Brookings.<sub>
+<sub> [2] Pipa, Rasmussen, & Pendrak. <sub>
+
+### SDGs on the Local Level
+This section will highlight how cities apply the SDG Framework. [Pittsburgh and the Sustainable Development Goals: A Voluntary Local Review of Progress](https://sdgs.un.org/sites/default/files/2020-12/Pittsburgh%20VLR%202020%20Final%20Draft.pdf) is a report on how the City of Pittsburgh perceives themselves aligning with the SDGs as of 2020.<sup>3<sup> The report provides a small amount of data that can be used in a bar chart:
+
+  ![Untitled (Draft)-3](https://user-images.githubusercontent.com/117120584/203681086-582a0f0e-b6c3-4aeb-af1c-9134d8d6d519.jpg)
+
+<sub>[3] Pendrak, K. & Viljaste, T. (2020). Pittsburgh and the Sustainable Development Goals: A Voluntary Local Review of Progress. United Nations.<sub>  
 ## Data
 A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
