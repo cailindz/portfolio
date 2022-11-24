@@ -39,15 +39,19 @@ Next, I might highlight a few key areas where the U.S. is noticeably behind. The
 
 I might also add a dataviz to illustrate how many people are affected by the U.S. falling short of an SDG even by a little bit. One fact highlighted in the Brookings report is that 6.6 million people did not have access to safe sanitation in 2019, which is approximately equal to the population of the state of Indiana.<sup>2<sup> I could use this fact or a different shortcoming in the U.S. and a unit chart to display how individual people in the U.S. are affected.
 
-<sub> [1] Pipa, A.F., Rasmussen, K., & Pendrak, K. (n.d.). State of the Sustainable Development Goals in the United States. Brookings.<sub>
-<sub> [2] Pipa, Rasmussen, & Pendrak. <sub>
-
 ### SDGs on the Local Level
 This section will highlight how cities apply the SDG Framework. [Pittsburgh and the Sustainable Development Goals: A Voluntary Local Review of Progress](https://sdgs.un.org/sites/default/files/2020-12/Pittsburgh%20VLR%202020%20Final%20Draft.pdf) is a report on how the City of Pittsburgh perceives themselves aligning with the SDGs as of 2020.<sup>3<sup> The report provides a small amount of data that can be used in a bar chart:
 
   ![Untitled (Draft)-3](https://user-images.githubusercontent.com/117120584/203681086-582a0f0e-b6c3-4aeb-af1c-9134d8d6d519.jpg)
 
-<sub>[3] Pendrak, K. & Viljaste, T. (2020). Pittsburgh and the Sustainable Development Goals: A Voluntary Local Review of Progress. United Nations.<sub>  
+If extra detail is needed, I could also reference local SDG analysis from Los Angeles, California. The [LA Voluntary Local Review](https://sdg.lamayor.org/2021VLR) was a leader in local SDG reporting. Useful data can be found on their public website.
+
+### SDGs on the Organizational Level
+This section will be the most "zoomed in" I will go in terms of SDG action. The Carnegie Mellon University [2020 Voluntary Review of the Sustainable Development Goals](https://www.cmu.edu/leadership/the-provost/provost-priorities/sustainability-initiative/cmu-vur-2020.pdf) is a report detailing SDG alignment across CMU. I can use data visualizations to report out on how CMU is doing on meeting various SDGs, and also on how they conducted their evaluation. 
+  
+### Local Action Drives Global Impact
+  
+
 ## Data
 A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
@@ -55,4 +59,9 @@ A link to the publicly-accessible datasets you plan on using, or a link to a cop
 ## Methods
 Shorthand
 Shorter Shorthand
+  
+## References
+<sub> [1] Pipa, A.F., Rasmussen, K., & Pendrak, K. (n.d.). State of the Sustainable Development Goals in the United States. Brookings.<sub>
+<sub> [2] Pipa, Rasmussen, & Pendrak. <sub>
+<sub>[3] Pendrak, K. & Viljaste, T. (2020). Pittsburgh and the Sustainable Development Goals: A Voluntary Local Review of Progress. United Nations.<sub>  
 
