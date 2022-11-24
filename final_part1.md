@@ -18,7 +18,7 @@ A project structure that outlines the major elements of your story.  Your Good C
 
 I will begin my project by giving an overview of the UN Sustainable Development Goals as a framework adopted by many countries. I will include the official SDG graphics, which are available for use according to these official [guidelines](https://www.un.org/sustainabledevelopment/wp-content/uploads/2019/01/SDG_Guidelines_AUG_2019_Final.pdf). The overview will include highlights of some of the specific goals and the metrics used to assess progress toward those goals. All the SDGs are captured in this official graphic:
 ![E SDG Poster 2019_without UN emblem_WEB](https://user-images.githubusercontent.com/117120584/203670801-44842558-22b1-4ca9-8aa4-ebf6aa36d937.png)
-**Consider: Is it okay to include graphics I did not design, if they are central to the story?**
+***Consider: Is it okay to include graphics I did not design, if they are central to the story?***
 
 To summarize the overview of the SDGs, I can include an infographic-type visual calling out specific numbers:
 -17 goals
@@ -34,6 +34,8 @@ In this section, I will focus on how the U.S. specifically has made progress on 
 
 Next, I might highlight a few key areas where the U.S. is noticeably behind. The [State of the Sustainable Development Goals in the United States](https://www.brookings.edu/wp-content/uploads/2022/03/2022_Brookings_State-of-SDGs-in-the-US.pdf) is a report published by Brookings that gives some insight. Based on their classification system of which SDGs are "on track" versus "breakthrough needed" or even "moving backward" I can color-code the U.S. progress in a dataviz:
 ![Untitled (Draft)-2](https://user-images.githubusercontent.com/117120584/203676178-c896d78c-f7f4-459c-9beb-8dcd0c282981.jpg)
+
+I might also add a dataviz to illustrate how many people are affected by the U.S. falling short of an SDG even by a little bit. One fact highlighted in the Brookings report is that 6.6 million people did not have access to safe sanitation in 2019, which approximately equal to the population of the state of Indiana.
 
 
 ## Data
