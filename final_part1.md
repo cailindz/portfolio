@@ -3,13 +3,16 @@
 *Due 11/22*
 [Link to portfolio main page](/README.md)
 
-What I want to say: The UN Sustainable Development Goals are a framework that can and should be employed across all sectors and levels to create wide-reaching, long-lasting change.
-To Whom: Organizational leaders on a local scale
-
 ## Summary
-A high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project.  
+For my final project, I want to explore the UN Sustainable Development Goals (SDGs), zooming in from an international framework to local implementation. This project is targeted toward organizational leaders in the U.S. who operate at a local scale. 
+**Main Message: The UN Sustainable Development Goals are a framework that can and should be employed across all sectors and levels to create wide-reaching, long-lasting change.**
 
-The intention is to continue zooming in from an international framework to local implementation. 
+My project will provide visualizations representing self-assessment across the SDGs. First, the international rankings of countries. Then, trends within the United States only. Zooming in further, I will illustrate the SDGs at the city level. Finally, I will zoom in once more to highlight SDGs on an organizational level. 
+
+By beginning with the international framework and zooming in to a local level, I aim to connect the SDGs, which are ambitious and broad, with tangible actions and progress. Because I'm creating this project with organizational leaders in mind, I intend to highlight the processes that an organization might use to implement SDGs. 
+
+Finally, I hope to reframe the SDGs for my audience, so that they are not only viewed as international goals set by the United Nations, but also guidelines for how every organization, city, county, state, and country can use to strive for a better future that includes everyone. And a better future for every city will propel change toward a better world. 
+ 
 ### Story Arc
 
 ## Outline & Initial Sketches
@@ -53,6 +56,7 @@ The evaluation process can be visualized using a flow chart. The following proto
 
 The report breaks down all of CMU's activities into the categories Education, Research, and Practice. The SDG evaluation then indicates what percentage of each category is connected with each specific SDG. The analysis was subjective and not entirely comprehensive. So, to visualize this data as a snapshot, a series of stacked bar charts could be useful. To further understand the data, plotting each percentage in order or rank helps visualize which goals are most prioritized at CMU:
 ![Untitled (Draft)-5](https://user-images.githubusercontent.com/117120584/203689057-221f3f55-52b6-4c59-a8ec-b9692faeb1f6.jpg)
+However, this chart will require some refining. Specifically, I need to fix the overlapping data points. Additionally, I will add two other bars to represent other CMU activities as they relate to SDGs. 
   
 ### Local Action Drives Global Impact
 I will conclude my data story by emphasizing the connection between local action and international change. To achieve the international Sustainable Development Goals by 2030, every country will have to do its part. In the United States, that change will rely on implementation at the city and organizational level. 
@@ -67,8 +71,9 @@ To supplement the dataset above, I have found several reports with relevant info
   - The Carnegie Mellon University report [2020 Voluntary Review of the Sustainable Development Goals](https://www.cmu.edu/leadership/the-provost/provost-priorities/sustainability-initiative/cmu-vur-2020.pdf)
   
 ## Methods
-Shorthand
-Shorter Shorthand
+I plan to build out this story using the tool Shorthand. I intend to create two versions: one version will be simplified for the 1-minute presentation, and the long version will contain more details. To create the data visualizations, I plan to use Tableau. However, I might end up also using Flourish. I expect to use a variety of other online tools during the design process, for example [Adobe Color](https://color.adobe.com/create/color-wheel) or [ColorBrewer 2.0](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3).
+
+I will also be referencing the book *Good Charts* by Scott Berinato.
   
 ### References
 <sub> [1] Pipa, A.F., Rasmussen, K., & Pendrak, K. (n.d.). State of the Sustainable Development Goals in the United States. Brookings.<sub>
