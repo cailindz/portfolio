@@ -8,12 +8,13 @@ To Whom: Organizational leaders on a local scale
 
 ## Summary
 A high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project.  
-
-## Outline
-A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 ### Story Arc
 
-## Initial Sketches
+## Outline & Initial Sketches
+A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+
+### Sustainable Development Goals: An International Framework
+I will begin my project by giving an overview of the UN Sustainable Development Goals as a framework adopted by many countries. I will include the official SDG graphics, which are available for use according to these official [guidelines]([url](https://www.un.org/sustainabledevelopment/wp-content/uploads/2019/01/SDG_Guidelines_AUG_2019_Final.pdf))
 
 ## Data
 A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
