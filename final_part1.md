@@ -62,6 +62,8 @@ Shorter Shorthand
   
 ## References
 <sub> [1] Pipa, A.F., Rasmussen, K., & Pendrak, K. (n.d.). State of the Sustainable Development Goals in the United States. Brookings.<sub>
+  
 <sub> [2] Pipa, Rasmussen, & Pendrak. <sub>
+  
 <sub>[3] Pendrak, K. & Viljaste, T. (2020). Pittsburgh and the Sustainable Development Goals: A Voluntary Local Review of Progress. United Nations.<sub>  
 
