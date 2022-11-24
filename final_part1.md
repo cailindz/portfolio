@@ -12,9 +12,7 @@ My project will provide visualizations representing self-assessment across the S
 
 By beginning with the international framework and zooming in to a local level, I aim to connect the SDGs, which are ambitious and broad, with tangible actions and progress. Because I'm creating this project with organizational leaders in mind, I intend to highlight the processes that an organization might use to implement SDGs. 
 
-Finally, I hope to reframe the SDGs for my audience, so that they are not only viewed as international goals set by the United Nations, but also guidelines for how every organization, city, county, state, and country can use to strive for a better future that includes everyone. And a better future for every city will propel change toward a better world. 
- 
-### Story Arc
+Finally, I hope to reframe the SDGs for my audience, so that they are not only viewed as international goals set by the United Nations, but also as guidelines for how every organization, city, state, and country can strive for a better future that includes everyone. And a better future for every city will propel change toward a better world. 
 
 ## Outline & Initial Sketches
 
