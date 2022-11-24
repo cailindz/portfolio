@@ -18,9 +18,16 @@ A project structure that outlines the major elements of your story.  Your Good C
 
 I will begin my project by giving an overview of the UN Sustainable Development Goals as a framework adopted by many countries. I will include the official SDG graphics, which are available for use according to these official [guidelines](https://www.un.org/sustainabledevelopment/wp-content/uploads/2019/01/SDG_Guidelines_AUG_2019_Final.pdf). The overview will include highlights of some of the specific goals and the metrics used to assess progress toward those goals. All the SDGs are captured in this official graphic:
 ![E SDG Poster 2019_without UN emblem_WEB](https://user-images.githubusercontent.com/117120584/203670801-44842558-22b1-4ca9-8aa4-ebf6aa36d937.png)
-**Consider: Is it okay to include graphics I did not design, if they are central to the story?
+**Consider: Is it okay to include graphics I did not design, if they are central to the story?**
 
-Next, I will highlight the international nature of the SDG framework. Here, I will include a dataviz illustrating how a number of countries are ranked along each of the 17 SDGs:
+To summarize the overview of the SDGs, I can include an infographic-type visual calling out specific numbers:
+-17 goals
+-169 targets
+-by 2030
+-# of countries actively reporting SDG progress
+
+Next, I will illustrate the international nature of the SDG framework while highlighting the United States. Here, I will include a dataviz illustrating how a number of countries are ranked along each of the 17 SDGs:![Untitled (Draft)-1](https://user-images.githubusercontent.com/117120584/203673359-a70e02eb-8999-4070-aa38-0554c9a7d16e.jpg)
+
 
 ## Data
 A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
