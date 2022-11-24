@@ -14,7 +14,10 @@ A high-level summary of your project.  This should be a couple paragraphs that d
 A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
 ### Sustainable Development Goals: An International Framework
-I will begin my project by giving an overview of the UN Sustainable Development Goals as a framework adopted by many countries. I will include the official SDG graphics, which are available for use according to these official [guidelines]([url](https://www.un.org/sustainabledevelopment/wp-content/uploads/2019/01/SDG_Guidelines_AUG_2019_Final.pdf))
+![E_SDG_logo_without_UN_emblem_horizontal_Transparent_WEB](https://user-images.githubusercontent.com/117120584/203669938-42a7eb59-c384-4e7c-a0ef-edde56b3c993.png)
+
+I will begin my project by giving an overview of the UN Sustainable Development Goals as a framework adopted by many countries. I will include the official SDG graphics, which are available for use according[Uploading English SDG Logo without UN Emblem WEB…]()
+ to these official [guidelines]([url](https://www.un.org/sustainabledevelopment/wp-content/uploads/2019/01/SDG_Guidelines_AUG_2019_Final.pdf))
 
 ## Data
 A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
