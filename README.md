@@ -17,6 +17,7 @@ I think data visualization is an exciting medium, since it combines principles o
 ### Final Project Part 1 - *due 11/22*
 [Assignment: Final Project Part 1](/final_part1.md)
 
-### Final Project Part 2 - *due 11/29*
+### Final Project Part 2 - *due 11/30*
+[Assignment: Final Project Part 2](/final_part2.md)
 
 ### Final Project Part 3 - *due 12/08*
