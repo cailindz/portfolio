@@ -3,6 +3,7 @@
 *Due 11/30*
 
 [Link to portfolio main page](/README.md)
+
 [Link to Part 1](/final_part1.md)
 
 ## Summary
