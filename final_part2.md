@@ -16,6 +16,10 @@ For my final project, I want to explore the UN Sustainable Development Goals (SD
 ## User Interviews
 
 ### Interview Script
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 
 ### Interview #1
 Table
