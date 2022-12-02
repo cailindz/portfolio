@@ -78,23 +78,53 @@ Summary of interview feedback:
 |- What changes would you make?                 |- Suggested adjustments to symbol size and labeling.
 
 ### Interview #3
+My third user interviewee had the following characteristics:
+* Female
+* American
+* 27 years old
+* University faculty
+* Medical field
+* Note: No experience with the SDGs
 
+Summary of interview feedback:
+
+| Question                                      | Response
+|-----------------------------------------------|-------------------------------
+|- Can you tell me what this chart is saying?   |- Main concept was immediately apprent for the first chart, with slightly slower comprehension over the following charts
+|- What is the main point of this chart?        |- Brookings analysis chart was interpretable with explanation from me. 
+|-----------------------------------------------|--------------------------------  
+|- How could you use this information?          |- Because she is a faculty member at a university, the interviewee was intrigued by the framework.
+|- How does this connect to your work?          |- Unsure how to incorporate into her day-to-day, but interested in the big-picture perspective of it.  
+|-----------------------------------------------|-------------------------------
+|- What was most confusing about this chart?    |- The y-axis on the Brookings chart was most confusing overall.  
+|- What changes would you make?                 |- Clarify when charts are only considering data from the U.S. 
 
 ### In-Class Critique Feedback
 During the critique in class, I was given several suggestions for how to improve upon my wire-frame charts:
-* Add reference points to first chart and reduce clutter of other countries
-* Add average growth line to compare w/ US growth
+* Add more useful reference points to first chart while removing extraneous data points
+* Add average growth line as reference to compare with U.S. growth
 * Use SDG icons on charts
 * Add colors to column panels
 * Use a Tableau dashboard to compare CMU graphs
 
 ## Key Findings
+The following ideas were either brought up by multiple users, or were suggestions that I agreed with immediately. The user research phase provided these insights into some key areas for improvement:
 * It might be useful to refer to each SDG with a keyword, rather than by number
 * Try re-arranging to emphasize trends, rather than the correct "order" of the SDGs
 * The CMU graph is confusing and hard to interpret.
+* My labels could be more interpretable
 
 ## Next Steps
+Moving forward, I have many changes to implement. I expect to produce several more iterations of my charts, in order to produce greater clarity. Some feedback I will implement includes:
+1. Re-arranging bars to more clearly show a trend
+2. Replacing SDG number labels with keyword labels
+3. Providing more context in the titles 
+4. Adding reference points to two charts. 
+5. Adding labels to key data points
 
+If I have the time and ability, I would also like to try using the SDG icons within my data visualizations. 
+
+Finally, I am considering adding a little more context about the efficacy of the SDGs. I found a metanalysis that provides evidence that the SDGs have not yet had a great impact. This finding might help drive my story arc by indicating the need to improve SDG progress.
 
 ## Personas
 The following personas were created to represent a diverse group of organizational leaders across industries and sectors. Each is engaged in mission-driven work in some capacity, and each has a role that could exert influence on the organization. These personas are a limited and specific picture of what some of my audience-members might look like. 
