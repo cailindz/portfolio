@@ -33,18 +33,20 @@ Once I identified interviewees, I was able to conduct interviews using a pre-def
 
 
 ### Interview #1
-My first user interview fit the following demographics:
+My first user interviewee fit the following demographics:
 * Male
+* International student 
 * 26 years old
 * PhD student
 * Energy sector
+* Note: some experience with the SDGs
 
 Summary of interview feedback:
 
 | Question                                      | Response
 |-----------------------------------------------|-------------------------------
-|- Can you tell me what this chart is saying?   |- He could identify the main idea of most charts, but struggled to identify trends and the main messages.
-|- What is the main point of this chart?        |
+|- Can you tell me what this chart is saying?   |- He could identify the main concept of most charts. 
+|- What is the main point of this chart?        |- He struggled to identify trends and the main messages stemming from trends.
 |-----------------------------------------------|--------------------------------  
 |- How could you use this information?          |- It isn't immediately apparent to him how this data corresponds with his work, but he learned more about how the SDGs
 |- How does this connect to your work?          |could be a useful perspective to incorporate in his work. 
@@ -54,7 +56,26 @@ Summary of interview feedback:
 
 
 ### Interview #2
+My second user interviewee shared many characteristics with the first:
+* Male
+* American
+* 26 years old
+* PhD student
+* Public health field
+* Note: No experience with the SDGs
 
+Summary of interview feedback:
+
+| Question                                      | Response
+|-----------------------------------------------|-------------------------------
+|- Can you tell me what this chart is saying?   |- The main ideas are interpretable for the most part. 
+|- What is the main point of this chart?        |- Hard to tell what the CMU chart is saying.
+|-----------------------------------------------|--------------------------------  
+|- How could you use this information?          |- As a PhD student, it's interesting to him to see how a University evaluates its activities with this framework.
+|- How does this connect to your work?          |- His academic work in public health connects to some SDGs, and he had been previously unaware. 
+|-----------------------------------------------|-------------------------------
+|- What was most confusing about this chart?    |- For the CMU chart: why are those top four points there? 
+|- What changes would you make?                 |- Suggested adjustments to symbol size and labeling.
 
 ### Interview #3
 
