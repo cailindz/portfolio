@@ -33,6 +33,24 @@ Once I identified interviewees, I was able to conduct interviews using a pre-def
 
 
 ### Interview #1
+My first user interview fit the following demographics:
+* Male
+* 26 years old
+* PhD student
+* Energy sector
+
+Summary of interview feedback:
+
+| Question                                      | Response
+|-----------------------------------------------|-------------------------------
+|- Can you tell me what this chart is saying?   |- He could identify the main idea of most charts, but struggled to identify trends and the main messages.
+|- What is the main point of this chart?        |
+|-----------------------------------------------|--------------------------------  
+|- How could you use this information?          |- It isn't immediately apparent to him how this data corresponds with his work, but he learned more about how the SDGs
+|- How does this connect to your work?          |could be a useful perspective to incorporate in his work. 
+|-----------------------------------------------|-------------------------------
+|- What was most confusing about this chart?    |- For most charts, he pointed out where labeling could be improved for better clarity. 
+|- What changes would you make?                 |- For the Brookings analysis chart, he wondered why some indicators were not included
 
 
 ### Interview #2
