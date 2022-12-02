@@ -20,10 +20,17 @@ To gain useful feedback from interviews, I first had to identify individuals who
 ### Interview Script
 Once I identified interviewees, I was able to conduct interviews using a pre-defined script that aligns my goals and questions:
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Objective        | Question    
+| -----------------|-----------------------------------------------|
+| Define chart's   |- Can you tell me what this chart is saying?   |
+| main message.    |- What is the main point of this chart?        |
+|------------------|-----------------------------------------------|  
+| Identify         |- How could you use this information?          |
+| usefulness       |- How does this connect to your work?          |
+|------------------|-----------------------------------------------|
+| Name any         |- What was most confusing about this chart?    |
+| confusion        |- What changes would you make?                 |
+
 
 ### Interview #1
 Table
@@ -35,6 +42,12 @@ Table
 
 
 ### In-Class Critique Feedback
+During the critique in class, I was given several suggestions for how to improve upon my wire-frame charts:
+* Add reference points to first chart and reduce clutter of other countries
+* Add average growth line to compare w/ US growth
+* Use SDG icons on charts
+* Add colors to column panels
+* Use a Tableau dashboard to compare CMU graphs
 
 ## Key Findings
 
