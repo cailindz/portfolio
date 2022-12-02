@@ -20,16 +20,16 @@ To gain useful feedback from interviews, I first had to identify individuals who
 ### Interview Script
 Once I identified interviewees, I was able to conduct interviews using a pre-defined script that aligns my goals and questions:
 
-| Objective        | Question    
-| -----------------|-----------------------------------------------|
-| Define chart's   |- Can you tell me what this chart is saying?   |
-| main message.    |- What is the main point of this chart?        |
-|------------------|-----------------------------------------------|  
-| Identify         |- How could you use this information?          |
-| usefulness       |- How does this connect to your work?          |
-|------------------|-----------------------------------------------|
-| Name any         |- What was most confusing about this chart?    |
-| confusion        |- What changes would you make?                 |
+| Objective                     | Question    
+| ------------------------------|-----------------------------------------------|
+| Define chart's main message.  |- Can you tell me what this chart is saying?   |
+|                               |- What is the main point of this chart?        |
+|-------------------------------|-----------------------------------------------|  
+| Identify usefulness           |- How could you use this information?          |
+|                               |- How does this connect to your work?          |
+|-------------------------------|-----------------------------------------------|
+| Name any confusion            |- What was most confusing about this chart?    |
+|                               |- What changes would you make?                 |
 
 
 ### Interview #1
