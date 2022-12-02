@@ -33,7 +33,7 @@ Once I identified interviewees, I was able to conduct interviews using a pre-def
 
 
 ### Interview #1
-Table
+
 
 ### Interview #2
 
@@ -50,7 +50,9 @@ During the critique in class, I was given several suggestions for how to improve
 * Use a Tableau dashboard to compare CMU graphs
 
 ## Key Findings
-
+* It might be useful to refer to each SDG with a keyword, rather than by number
+* Try re-arranging to emphasize trends, rather than the correct "order" of the SDGs
+* The CMU graph is confusing and hard to interpret.
 
 ## Next Steps
 
