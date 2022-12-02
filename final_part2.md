@@ -4,31 +4,21 @@
 
 [Link to portfolio main page](/README.md)
 
-[Link to Part 1](/final_part1.md)
+[Link to Final Project Part 1](/final_part1.md)
 
 ## Wireframes and Storyboarding
 The current draft of my data story with wireframe data visualizations can be previewed [on Shorthand](https://preview.shorthand.com/hWTlxeBEd0zlYx2A).
 
 ## User Research
-You should have also developed a simple user research protocol that describes what you hope to find during your user interviews, including your research questions and the script.  Once your interviews are complete, you should have documented findings that detail what you've learned by showing your early wireframes / storyboards to at least three different individuals.  
-
-Your user research protocol should clearly identify the following: 
-
-a. the target audience you hope to reach with your story; 
-b. your approach to identifying representative individuals to interview; 
-c. your interview script; 
-d. the findings from your interviews; and 
-e. changes you plan on implementing to your visualizations next week to address the issues identified. 
-
-When talking about your findings, specific insights and observations, key quotes and other insights are better than broad, sweeping generalizations.  Look across your interviews and note where you have consistent feedback vs. any observations that might be conflicting.  Talk about how you plan on using this feedback to improve your project as you head into Part III. 
-
 
 ### Target Audience
-The target audience for my presentation includes organizational leaders doing mission-driven work on a local scale. 
+The target audience for my presentation includes organizational leaders doing mission-driven work on a local scale. This could include non-profit directors, government workers, local officials, small business owners, etc. Any person with organizational influence who is interested in bettering their community, and the world, might be interested in my presentation. 
 
 ## User Interviews
+To gain useful feedback from interviews, I first had to identify individuals who are at least somewhat representative of my target audience. I was able to find three individuals representing the public health field, the energy sector, and the medical field. I was happy to have diverse representation from different industries; however, my interviewees were not diverse in age. To get a more representative sample of my target audience, I would need to interview individuals with greater experience in professional leadership roles, who are also likely to be older. However, I was limited by my access to willing participants and the relatively short time span available to conduct sufficient interviews.
 
 ### Interview Script
+Once I identified interviewees, I was able to conduct interviews using a pre-defined script that aligns my goals and questions:
 
 | Syntax      | Description |
 | ----------- | ----------- |
