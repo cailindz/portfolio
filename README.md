@@ -1,5 +1,7 @@
+![IMG_8221](https://user-images.githubusercontent.com/117120584/206813102-de15cc89-7534-4eea-9e4d-60f64a3a5ce8.jpg)
+
 # Portfolio
-### Cailin De Zeeuw's public portfolio for the Carnegie Mellon class *Telling Stories with Data*
+### Cailin De Zeeuw's public portfolio for the Heinz College class *Telling Stories with Data* at Carnegie Mellon University
 
 ## About Me
 Hello, and welcome to my portfolio! My name is Cailin De Zeeuw, and I use she/her pronouns. I am a Master's student in Public Policy & Management at Carnegie Mellon University's Heinz College. My professional interests include enviornmental policy, urban planning, and sustainable development, and I have found that both design and data analysis play important roles in making positive change in those fields. I consider myself a *maker*, and I am excited to practice making data visualizations. I look forward to seeing how my design and communication will improve throughout this course, and my hope is that this portfolio will illustrate my progress. 
