@@ -1,9 +1,9 @@
+### Site Navigation
+[Link to portfolio main page](/README.md)
+
 # Final Project Part 1
 ### Cailin De Zeeuw
 *Due 11/22*
-
-### Navigation
-[Link to portfolio main page](/README.md)
 
 ## Summary
 For my final project, I want to explore the UN Sustainable Development Goals (SDGs), zooming in from an international framework to local implementation. This project is targeted toward organizational leaders in the U.S. who operate at a local scale. 
