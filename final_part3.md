@@ -1,4 +1,3 @@
-
 ### *Site Navigation*
 **|**  [Portfolio Main Page](/README.md)  **|**  [Final Project Part 1](/final_part1.md)  **|**  [Final Project Part 2](/final_part2.md)  **|**  **[Final Data Story in Shorthand]()**  **|**
 
