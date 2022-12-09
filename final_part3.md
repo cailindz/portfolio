@@ -2,13 +2,14 @@
 ### Cailin De Zeeuw
 *Due 12/9*
 
-[Link to final Data Story in Shorthand](
-
+### Navigation
 [Link to portfolio main page](/README.md)
 
 [Link to Final Project Part 1](/final_part1.md)
 
 [Link to Final Project Part 2](/final_part2.md)
+
+### [Link to final Data Story in Shorthand](
 
 **Final Deliverables**
 
