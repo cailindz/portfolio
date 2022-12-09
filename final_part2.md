@@ -1,10 +1,9 @@
+### *Site Navigation*
+**|**  [Portfolio Main Page](/README.md)  **|**  [Final Project Part 1](/final_part1.md)  **|**  [Final Project Part 2](/final_part2.md)  **|**  [Final Project Part 3](/final_part3.md)  **|**  **[Final Data Story in Shorthand](https://carnegiemellon.shorthandstories.com/local-action-for-global-impact/index.html)**  **|**
+
 # Final Project Part 2
 ### Cailin De Zeeuw
 *Due 11/30*
-
-[Link to portfolio main page](/README.md)
-
-[Link to Final Project Part 1](/final_part1.md)
 
 ## Wireframes and Storyboarding
 The current draft of my data story with wireframe data visualizations can be previewed [on Shorthand](https://preview.shorthand.com/hWTlxeBEd0zlYx2A).
