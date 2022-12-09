@@ -21,3 +21,4 @@ I think data visualization is an exciting medium, since it combines principles o
 [Assignment: Final Project Part 2](/final_part2.md)
 
 ### Final Project Part 3 - *due 12/08*
+[Assignment: Final Project Part 3](/final_part3.md)
