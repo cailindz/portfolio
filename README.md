@@ -1,4 +1,4 @@
-![IMG_8221](https://user-images.githubusercontent.com/117120584/206813102-de15cc89-7534-4eea-9e4d-60f64a3a5ce8.jpg)
+![IMG_8221](https://user-images.githubusercontent.com/117120584/206813357-59ba2736-7353-4cb5-ace0-5997b564eb39.jpg)
 
 # Portfolio
 ### Cailin De Zeeuw's public portfolio for the Heinz College class *Telling Stories with Data* at Carnegie Mellon University
@@ -24,3 +24,6 @@ I think data visualization is an exciting medium, since it combines principles o
 
 ### Final Project Part 3 - *due 12/09*
 [Assignment: Final Project Part 3](/final_part3.md)
+
+
+![IMG_8221](https://user-images.githubusercontent.com/117120584/206813102-de15cc89-7534-4eea-9e4d-60f64a3a5ce8.jpg)
