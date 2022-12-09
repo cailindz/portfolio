@@ -1,15 +1,16 @@
+### Site Navigation
+[Portfolio Main Page](/README.md)
+
+[Final Project Part 1](/final_part1.md)
+
+[Final Project Part 2](/final_part2.md)
+
+**[Final Data Story in Shorthand]()**
+
+
 # Final Project Part 3
 ### Cailin De Zeeuw
 *Due 12/9*
-
-### Navigation
-[Link to portfolio main page](/README.md)
-
-[Link to Final Project Part 1](/final_part1.md)
-
-[Link to Final Project Part 2](/final_part2.md)
-
-**[Link to final Data Story in Shorthand]()**
 
 ## Final Project Workflow
 
