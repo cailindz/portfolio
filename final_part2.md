@@ -1,5 +1,5 @@
 ### *Site Navigation*
-**|**  [Portfolio Main Page](/README.md)  **|**  [Final Project Part 1](/final_part1.md)  **|**  [Final Project Part 2](/final_part2.md)  **|**  [Final Project Part 3](/final_part3.md)  **|**  **[Final Data Story in Shorthand](https://carnegiemellon.shorthandstories.com/local-action-for-global-impact/index.html)**  **|**
+**|**  [Portfolio Main Page](/README.md)  **|**  [Final Project Part 1](/final_part1.md)  **|**  **[Final Project Part 2](/final_part2.md)**  **|**  [Final Project Part 3](/final_part3.md)  **|**  [Final Data Story in Shorthand](https://carnegiemellon.shorthandstories.com/local-action-for-global-impact/index.html)  **|**
 
 # Final Project Part 2
 ### Cailin De Zeeuw
