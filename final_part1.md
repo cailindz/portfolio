@@ -1,5 +1,5 @@
 ### Site Navigation
-[Link to portfolio main page](/README.md)
+[Portfolio Main Page](/README.md)
 
 # Final Project Part 1
 ### Cailin De Zeeuw
