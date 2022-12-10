@@ -23,13 +23,16 @@ Part 2 of the project gave me the opportunity to both plan for next steps, and r
 
 ### Part 3 Behind-the-Scenes of the Final Data Story
 ### [Link to public data story](https://carnegiemellon.shorthandstories.com/local-action-for-global-impact/index.html)
-#### Changes
+
+#### My Progress & Changes
 
 *A few paragraphs that reflects on changes you made since the completion of Part II*
-When I began Part 3 of the project, I started with the bare-bones Shorthand structure I outlined in Part 2, which included some early iterations of my charts.  
+When I began Part 3 of the project, I started with the bare-bones Shorthand structure I outlined in Part 2, which included some early iterations of my charts. 
+
+I included a number of other links to resources for a reader, which 
+
 
 #### My Audience
-*Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.)*
 When I created the personas in Part 2, it helped me gain a better understanding of the diversity of audience members I wanted to appeal to. Specifically, what I think is challenging is to tailor a professional presentation to a variety of professions. Different fields have different communication styles, cultural norms, expectations, etc. In creating the personas, I realized that instead of targeting _any_ local organization, I was thinking more about _mission-driven_ organizations. I felt that this was a more accurate reflection of my goals for the presentation. It ruled out most businesses, but I did end up thinking through a persona of a real estate development professional who runs a mission-driven business. However, I think most of my audience would work for government or non-profit organizations. 
 
 Because of this, I decided to include one government and one non-profit example in my final report. By emphasizing how a city and how a University have used the SDGs, I feel that my audience will be able to relate to at least one or the other. 
@@ -37,5 +40,12 @@ Because of this, I decided to include one government and one non-profit example 
 Another way I adjusted to my expected audience was simply in preparing to present in class. Given the setting, I decided I wanted to include a second "call to action" for the average local citizen, rather than just target local leaders. I feel that citizens, especially at the local level, have an impact on their communities. So, in advocating for sustainable community development within the framework of the SDGs, it made sense to include citizens in my audience. 
 
 #### My Design Choices 
-Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.* 
+
 In the report, I intentionally used the color palette that the SDGs use. These colors appeared both in the official SDG graphics, but also in my font colors, chart bars, and background colors. While the colors are bold and bright, I tried to balance them out with white and grays. The "rainbow effect" was hard to avoid, especially in my figure that used CMU data. However, the consistency of the color coding from beginning to end made it easier to interpret, in my opinion. 
+
+I also used color to facilitate the narrative structure. My report had three main analysis sections that focused on the U.S., Pittsburgh, and CMU. Each of these had their own background color. All of the text and graphs for the United States is on a blue background. Everything for Pittsburgh is on a gray background, and everything for CMU is on a gold background. I think this color-blocking technique helped tie together the different blocks of my overall story. 
+
+Another design choice I made was how to represent my citations. I chose to use numeric formatting with hyperlinks to create the most clarity and usefulness to the reader, while adding the least amount of visual clutter. I tried one version using superscripts with hyperlinks, but the underline of the hyperlink looked strange, and the size of the superscript made it hard to click. I chose to use the number in brackets, because it was obvious enough for a reader, while also taking up only a small amount of space. As an example, [2] refers to the second item in the References section. I also hyperlinked each reference to its online source, to make it easy for the reader to find. 
+
+
+
