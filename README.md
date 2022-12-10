@@ -14,6 +14,8 @@ Hello, and welcome to my portfolio! My name is Cailin De Zeeuw, and I use she/he
 ## What I Hope to Learn
 I think data visualization is an exciting medium, since it combines principles of design, effective communication, and data analysis. I find each of these individually interesting and important, and am therefore eager to apply them to making effective and visually appealing data visualizations. My hope for this class is to develop my understanding of what makes a "good chart," and to produce a body of work that improves over time. To achieve this, I intend to practice analyzing data visualizations I come across in my life, and spend time iterating my own designs. Moving forward, I hope to continue practicing my data visualization skills in order to make creative, clear, and impactful charts in a professional setting. 
 
+---
+
 ## Portfolio
 ### [Visualizing Government Debt](/dataviz2.md)
 
@@ -25,7 +27,8 @@ I think data visualization is an exciting medium, since it combines principles o
 
 ### [Final Project Part 3](/final_part3.md)
 
-----------------------------
+---
+
 ### *Thanks for stopping by my portfolio!* 
 
 ![IMG_8221](https://user-images.githubusercontent.com/117120584/206813102-de15cc89-7534-4eea-9e4d-60f64a3a5ce8.jpg)
