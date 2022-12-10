@@ -22,6 +22,16 @@ In the Final Project Part 2, I had the chance to start building out my narrative
 Part 2 of the project gave me the opportunity to both plan for next steps, and reflect on what I had already done. At the end of this part, I had a basic set-up for my story, and a list of action items to improve upon it. 
 
 ### Part 3 Behind-the-Scenes of the Final Data Story
-## [Link to public data story](https://carnegiemellon.shorthandstories.com/local-action-for-global-impact/index.html)
-When I began Part 3 of the project, I started with the bare-bones Shorthand structure I outlined in Part 2, and some early iterations of my charts.  
-*A few paragraphs that reflects on changes you made since the completion of Part II.  Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.  Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story.* 
+### [Link to public data story](https://carnegiemellon.shorthandstories.com/local-action-for-global-impact/index.html)
+#### Changes
+
+*A few paragraphs that reflects on changes you made since the completion of Part II*
+When I began Part 3 of the project, I started with the bare-bones Shorthand structure I outlined in Part 2, which included some early iterations of my charts.  
+
+### My Audience
+*Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.)*
+
+
+### My Design Choices
+*Note any specific adjustments you made to your final project to make it work for your audience. 
+Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.* 
