@@ -25,9 +25,12 @@ Part 2 of the project gave me the opportunity to both plan for next steps, and r
 ### [Link to public data story](https://carnegiemellon.shorthandstories.com/local-action-for-global-impact/index.html)
 
 #### My Progress & Changes
+When I began Part 3 of the project, I started with the bare-bones Shorthand structure I outlined in Part 2, which included some early iterations of my charts. I had a long list of changes to make and other suggestions based on my interview feedback in Part 2. 
 
-*A few paragraphs that reflects on changes you made since the completion of Part II*
-When I began Part 3 of the project, I started with the bare-bones Shorthand structure I outlined in Part 2, which included some early iterations of my charts. 
+_I tried to make my charts more interpretable._ The biggest adjustments I made were re-ordering data bars to illustrate trends like highest-to-lowest, rather than keeping all of the data in the SDG order from #1 to #17. Another suggestion I implemented was changing the SDG labels from their numeric lables (e.g. #13) to a keyword label (e.g. "Climate"). While I wasn't able to use keywords in every case, I feel that they did help make the charts more interpretable. Where I couldn't use keywords, I used the # symbol to indicate "number" to try to help differentiate the SDG's label from any actual numeric values. 
+
+_I also tried to make my charts more focused._ Based on instructor feedback, I used color to highlight some data points of interest, while graying out other data in my Pittsburgh chart. This helped the user focus on the highest and lowest levels of alignment across the SDGs. I also focused in on a subset of SDGs in my line graph of SDGs over time in the U.S. This helped focus in on the lowest SDGs, where the most progress needs to be made. Based on interview feedback, I added a reference point to my first U.S. graph, indicating the average of the sample of countries included in the chart. I appreciated how this helped illustrate how the U.S. ranks across those other countries, even more clearly than when I had only included the distribution of other countries as gray dots.  
+
 
 I included a number of other links to resources for a reader, which 
 
