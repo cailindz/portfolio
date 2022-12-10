@@ -37,7 +37,7 @@ When I created the personas in Part 2, it helped me gain a better understanding 
 
 Because of this, I decided to include one government and one non-profit example in my final report. By emphasizing how a city and how a University have used the SDGs, I feel that my audience will be able to relate to at least one or the other. 
 
-Another way I adjusted to my expected audience was simply in preparing to present in class. Given the setting, I decided I wanted to include a second "call to action" for the average local citizen, rather than just target local leaders. I feel that citizens, especially at the local level, have an impact on their communities. So, in advocating for sustainable community development within the framework of the SDGs, it made sense to include citizens in my audience. 
+Another way I adjusted to my expected audience was simply in preparing to present in class. Given the setting, I thought it could be useful to include a call to action that would be useful for my peers. I decided I wanted to include a second "call to action" for the average local citizen, rather than just target local leaders. I feel that citizens, especially at the local level, have an impact on their communities. So, in advocating for sustainable community development within the framework of the SDGs, it made sense to include citizens in my audience. 
 
 #### My Design Choices 
 
@@ -47,5 +47,4 @@ I also used color to facilitate the narrative structure. My report had three mai
 
 Another design choice I made was how to represent my citations. I chose to use numeric formatting with hyperlinks to create the most clarity and usefulness to the reader, while adding the least amount of visual clutter. I tried one version using superscripts with hyperlinks, but the underline of the hyperlink looked strange, and the size of the superscript made it hard to click. I chose to use the number in brackets, because it was obvious enough for a reader, while also taking up only a small amount of space. As an example, [2] refers to the second item in the References section. I also hyperlinked each reference to its online source, to make it easy for the reader to find. 
 
-
-
+I also added a number of images to help build out my design. I chose images that could help cue the reader to specific conexts. For example, I chose a simple photo of the Statue of Liberty when I shifted to talking about the United States. When I wanted to "zoom in" to a more local level, I used an image of a magnifying glass followed by a photo of Pittsburgh. I appreciate how the images can help carry the reader from place to place. 
