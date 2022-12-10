@@ -2,7 +2,6 @@
 **|**  [Portfolio Main Page](/README.md)  **|** 
 # Assignment: Visualizing government debt
 ### *Due 11/07*
-[Link to portfolio main page](/README.md)
 
 ## Bar Chart: Visualizing government debt data using data source interface
 This bar chart was generated using the tools available on the OECD website. The visualization was created and customized without having to download the dataset.
