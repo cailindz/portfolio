@@ -25,7 +25,7 @@ I think data visualization is an exciting medium, since it combines principles o
 
 ### [Final Project Part 3](/final_part3.md)
 
-
-#### *Thanks for stopping by my portfolio!* 
+----------------------------
+### *Thanks for stopping by my portfolio!* 
 
 ![IMG_8221](https://user-images.githubusercontent.com/117120584/206813102-de15cc89-7534-4eea-9e4d-60f64a3a5ce8.jpg)
