@@ -4,7 +4,7 @@
 
 ![IMG_8221](https://user-images.githubusercontent.com/117120584/206813422-e2f5be08-df1e-4d47-9bef-91f8a506f38c.jpg)
 
-  <center>  <h3>Cailin's public portfolio for the Heinz College class *Telling Stories with Data* at Carnegie Mellon University</h3> </center>
+<center> ### Cailin's public portfolio for the Heinz College class *Telling Stories with Data* at Carnegie Mellon University </center>
 
 ## About Me!
 <img align="left" width="100" height="100" src=[headshot 2](https://user-images.githubusercontent.com/117120584/206813590-2ddb4f90-f71a-41bf-896d-2484481ab9a5.jpg)>
