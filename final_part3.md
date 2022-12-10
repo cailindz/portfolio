@@ -34,7 +34,8 @@ When I created the personas in Part 2, it helped me gain a better understanding 
 
 Because of this, I decided to include one government and one non-profit example in my final report. By emphasizing how a city and how a University have used the SDGs, I feel that my audience will be able to relate to at least one or the other. 
 
+Another way I adjusted to my expected audience was simply in preparing to present in class. Given the setting, I decided I wanted to include a second "call to action" for the average local citizen, rather than just target local leaders. I feel that citizens, especially at the local level, have an impact on their communities. So, in advocating for sustainable community development within the framework of the SDGs, it made sense to include citizens in my audience. 
 
-#### My Design Choices
-*Note any specific adjustments you made to your final project to make it work for your audience. 
+#### My Design Choices 
 Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.* 
+In the report, I intentionally used the color palette that the SDGs use. These colors appeared both in the official SDG graphics, but also in my font colors, chart bars, and background colors. While the colors are bold and bright, I tried to balance them out with white and grays. The "rainbow effect" was hard to avoid, especially in my figure that used CMU data. However, the consistency of the color coding from beginning to end made it easier to interpret, in my opinion. 
