@@ -52,3 +52,18 @@ I also added a number of images to help build out my design. I chose images that
 
 #### In Conclusion
 Part 3 of the Final Project produced a high-quality result, but I needed Parts 1 and 2 to build on beforehand. Through this process, I was able to produce a focused but comprehensive guide to the Sustainable Development Goals Framework, as it is implemented from the national scale zooming all the way in to the local organizational level. While there are always bits and pieces of a project that could benefit from further iterations, I am proud of the final deliverable I created, and I hope that it would be appreciated by and useful to my intended audience.
+
+### References and Data Sources
+I cited the following sources in my final report:
+1. UN Department of Economic and Social Affairs. (n.d.). The 17 Goals. United Nations. https://sdgs.un.org/goals 
+2. UN Department of Economic and Social Affairs. (n.d.). Transforming our world: the 2030 Agenda for Sustainable Development. United Nations. https://sdgs.un.org/2030agenda 
+3. Sustainable Development Goals (n.d.). Communications Materials. United Nations. https://www.un.org/sustainabledevelopment/news/communications-material/ 
+4. UN Department of Economic and Social Affairs. (n.d.). 13: Take urgent action to combat climate change and its impacts. United Nations. https://sdgs.un.org/goals/goal13 
+5. High-Level Political Forum on Sustainable Development. (n.d.) Volunary National Reviews. United Nations. https://hlpf.un.org/vnrs 
+6. SDG Knowledge Hub. (2022, March 24). Five Countries Yet to Conduct Voluntary National Review. International Institute for Sustainable Development. https://sdg.iisd.org/news/five-countries-yet-to-conduct-voluntary-national-review/
+7. Sachs, J., Kroll, C., Lafortune, G., Fuller, G., & Woelm, F. (2022). Sustainable development report 2022. Cambridge University Press. https://dashboards.sdgindex.org/downloads 
+8. Pipa, T., Rasmussen, K., & Pendrak, K. (2022). The State of the Sustainable Development Goals in the United States. Policy Brief. Brookings Center for Sustainable Development and United Nations Foundation. https://www.brookings.edu/wp-content/uploads/2022/03/2022_Brookings_State-of-SDGs-in-the-US.pdf 
+9. City of Los Angeles. (2021). Los Angeles Sustainable Development Goals. https://sdg.lamayor.org/2021VLR 
+10. Pendrak, K. & Viljaste, T. (2020). Pittsburgh and the Sustainable Development Goals: A Voluntary Local Review of Progress. United Nations. https://sdgs.un.org/sites/default/files/2020-12/Pittsburgh%20VLR%202020%20Final%20Draft.pdf 
+11. Carnegie Mellon University Sustainability Initiative. (2020). CMU Voluntary University Review of the Sustainable Development Goals. Carnegie Mellon University. https://www.cmu.edu/leadership/the-provost/provost-priorities/sustainability-initiative/cmu-vur-2020.pdf 
+12. Global Taskforce of Local and Regional Governments. (n.d.) Roadmap for Localizing the SDGs: Implementation and Monitoring at Subnational Level. United Nations. https://sustainabledevelopment.un.org/content/documents/commitments/818_11195_commitment_ROADMAP%20LOCALIZING%20SDGS.pdf 
