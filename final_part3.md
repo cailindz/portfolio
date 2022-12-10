@@ -28,10 +28,13 @@ Part 2 of the project gave me the opportunity to both plan for next steps, and r
 *A few paragraphs that reflects on changes you made since the completion of Part II*
 When I began Part 3 of the project, I started with the bare-bones Shorthand structure I outlined in Part 2, which included some early iterations of my charts.  
 
-### My Audience
+#### My Audience
 *Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.)*
+When I created the personas in Part 2, it helped me gain a better understanding of the diversity of audience members I wanted to appeal to. Specifically, what I think is challenging is to tailor a professional presentation to a variety of professions. Different fields have different communication styles, cultural norms, expectations, etc. In creating the personas, I realized that instead of targeting _any_ local organization, I was thinking more about _mission-driven_ organizations. I felt that this was a more accurate reflection of my goals for the presentation. It ruled out most businesses, but I did end up thinking through a persona of a real estate development professional who runs a mission-driven business. However, I think most of my audience would work for government or non-profit organizations. 
+
+Because of this, I decided to include one government and one non-profit example in my final report. By emphasizing how a city and how a University have used the SDGs, I feel that my audience will be able to relate to at least one or the other. 
 
 
-### My Design Choices
+#### My Design Choices
 *Note any specific adjustments you made to your final project to make it work for your audience. 
 Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.* 
