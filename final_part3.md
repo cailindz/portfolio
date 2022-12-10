@@ -5,11 +5,19 @@
 ### Cailin De Zeeuw
 *Due 12/9*
 
-## Final Project Workflow
+## Final Project Workflow Overview
 
 ### Part 1 Summary
+In the Final Project Part 1, I was tasked with selecting my project topic, outlining my project, and identifying data sources to use for the project. While I thought of numerous topics of interest, I was most limited by data availability. Finding data was challenging for me, so I was excited to come across the [Sustainable Development Report](https://dashboards.sdgindex.org/downloads) website. Once I was inspired to explore the SDGs, I was able to find more information from different sources like the City of Pittsburgh and our own Carnegie Mellon University. 
+
+By the end of Part 1, I defined my main message: "The UN Sustainable Development Goals are a framework that can and should be employed across all sectors and levels to create wide-reaching, long-lasting change." 
+
+Somewhat surprisingly, my main message did not change much through the rest of the project process. My final report does represent how SDGs can be employed across different levels, from national to organizational. 
+
+Part 1 also included several sketches of how I would represent my data. Although my final visualizations did not turn out exactly like my sketches, they were a good starting point and inspiration to begin iterating different charts.
 
 ### Part 2 Summary
+In the Final Project Part 2, I had the chance to start building out my narrative more. Using Wireframes and Storyboards,
 
 ### Part 3 Behind-the-Scenes of the Final Data Story
 ## [Link to public data story](https://carnegiemellon.shorthandstories.com/local-action-for-global-impact/index.html)
