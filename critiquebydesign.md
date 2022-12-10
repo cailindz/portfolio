@@ -1,6 +1,8 @@
+### *Site Navigation*
+**|**  [Portfolio Main Page](/README.md)  **|** 
+
 # Assignment: Critique by Design
 ### *Due 11/15*
-[Link to portfolio main page](/README.md)
 
 ## Selecting a data visualization for critique and redesign
 
